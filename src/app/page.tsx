@@ -49,8 +49,8 @@ function Dashboard() {
     { name: 'overview', icon: FaHome, component: Overview },
     { name: 'Library', icon: FaBoxes, component: Library },
     { name: 'Orders', icon: FaShoppingCart, component: CurrentOrders },
-    { name: 'advertise', icon: FaAd, component: Advertise },
-    { name: 'help', icon: FaQuestionCircle, component: Help },
+    // { name: 'advertise', icon: FaAd, component: Advertise },
+    // { name: 'help', icon: FaQuestionCircle, component: Help },
     { name: 'settings', icon: FaCog, component: Settings },
   ];
 
